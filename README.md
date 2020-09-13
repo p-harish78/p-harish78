@@ -3,6 +3,8 @@
 <!--
 **p-harish78/p-harish78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
